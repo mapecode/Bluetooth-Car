@@ -11,5 +11,5 @@ Proyecto final de la asignatura de Diseño de Sistemas Basados en Microprocesado
 La documentación asociada al proyecto junto con un video mostrando el funcionamiento se puede ver en [este enlace](https://mapecode.com/disenar-coche-teledirigido-por-bluetooth/).
 
 # Participantes
-Mario Pérez Sánchez-Montañez  
-David Camuñas Sánchez
+[Mario Pérez](https://github.com/mapecode)
+[David Camuñas](https://github.com/dcamunas)
